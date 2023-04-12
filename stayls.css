@@ -1,0 +1,263 @@
+.body{
+	/*margin: 0px;*/
+	background-color: #63b5b585;
+	/*position: relative;*/
+
+}
+  .book-cover-image {
+    width: 100%;
+    height: auto;
+  }
+    @media screen and (min-width: 768px) {
+    .book-cover-image {
+      max-width: 300px;
+    }
+  }
+  .card.border-width {
+  border-width: 3px;
+}
+.card {
+  max-width: 70%;
+}
+.c0{
+	background-color: #63b5b585;
+	 border-style: dotted;
+	 border-color: #63b5b585;
+	 padding: 10px;
+}
+
+.p0{
+	margin: 0px;
+}
+
+.saidBar{
+	background-color:  #63b5b585;
+	width: 99%;
+	height: 45px;
+	margin-top: 10px;
+	border-style: dotted;
+	border-color: #6ccbb4;
+}
+
+.ul{/*Dev souling*/
+	background-color: skyblue;
+	font-size: 21px;
+}
+
+.Div{
+	position: relative;
+	font-size: 100%;
+}
+
+.brand{
+	font-size: 2.5rem;
+	font-weight: bold;
+}
+
+   .footer {
+ 
+      }
+
+
+
+
+
+
+
+
+
+.Intro{
+	background-color: #e2ebf9;
+}
+
+
+/**********************************************************************************************************************************************************************************************************/
+
+
+/***************** Button ****************/
+
+button:hover{
+	background-color: #a8cccc;
+}
+
+
+.bottonH{/* Home Button */
+	
+	padding: 13px;
+	background-color: #6ccbb4;
+	border-style: dotted;
+	position: absolute;
+	left: 10em;
+	font-size: 100%;
+}
+
+.botton_Books{
+	padding: 13px;
+	background-color: #6ccbb4;
+	border-style: dotted;
+	position: absolute;
+	left: 15em;
+	font-size: 100%;
+
+}
+
+.botton_Films{
+	padding: 13px;
+	background-color: #6ccbb4;
+	border-style: dotted;
+	position: absolute;
+	left: 20.5em;
+	font-size: 100%;
+}
+
+
+
+.botton_Contact{
+	padding: 13px;
+	background-color: #6ccbb4;
+	border-style: dotted;
+	position: absolute;
+	left: 29em;
+	font-size: 100%;
+}
+
+.botton_login{
+	padding: 13px;
+	background-color: #6ccbb4;
+	border-style: dotted;
+	position: absolute;
+	right: 10em; 
+	font-size: 100%;
+}
+
+.botton_sing{
+	padding: 13px;
+	background-color: #6ccbb4;
+	border-style: dotted;
+	position: absolute;
+	right: 3em; 
+	font-size: 100%;
+}
+
+
+/***************** Button ****************/
+
+
+/***************** Border ****************/
+
+.Border_Boooks_left{
+	border-style: dotted;
+	border-color: #f1ffff;
+	width: 30%;
+	height: 30%;
+	margin-top: 5%;
+	margin-left: 5%;
+	position: relative;
+	 
+}
+
+
+.Border_Boooks_title{
+ 	position: absolute;
+ 	margin-top: 2em;
+ 	left: 5em;
+
+}
+
+.d_img1l{
+	position: relative;
+	width: 100%;
+	height: 60%;
+	margin: 10px 0px 0px 0px;
+	}
+
+.img_b1{
+	position: relative;
+	width: 30%;
+	margin: 0em 1.5em ;
+	margin-top: 10px;
+	 
+}
+
+.title_b1{
+	position: relative;
+	width: 100px;
+	height: 20px;
+	margin-left: 3em;
+	margin-top: 0.5em;
+}
+
+.d_img1r{
+	position: absolute;
+	width: 100%;height: 60%;
+	left: 55%;
+	top: 0%;
+
+}
+
+/****************Films***********/
+
+.Border_Films{
+	border-style: dotted;
+	border-color: #f1ffff;/*#f1ffff*/
+	position: absolute;
+ 	width: 35%;
+	height: 50%;
+	left: 60%;
+	margin-top: 8%;
+	margin-bottom: 30%;
+
+}
+
+
+.in_F{
+		position: relative;
+		width: 100%;
+		height: 50%;
+		border-color: black;
+		background-color: red;
+
+}
+
+.f1{
+	position: absolute;
+	width: 30%;
+	height: 80%;
+	background-color: yellow;
+ 	margin: 20px;
+}
+
+
+.img_f1{
+		width: 100%;
+			
+	}
+
+.d_img1Fl{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+ 	margin: 6px;
+
+
+	}
+
+.d_img1Fr{
+	position: absolute;
+	left: 20%;
+	 
+
+}
+
+.img_F1{
+	position: relative;
+	width: 25%;
+	margin: 0em 1.5em ;
+	margin-top: 10px;
+	 
+}
+
+
+.Border_Films_title{
+
+}
